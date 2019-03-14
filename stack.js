@@ -33,4 +33,8 @@ stack.push(2);
 stack.push(5);
 
 console.log(stack.size());
+<<<<<<< HEAD
 console.log(stack.peek())
+=======
+console.log(stack.peek())
+>>>>>>> 34bff7893d4a4c549e95a429741c540eef996655
